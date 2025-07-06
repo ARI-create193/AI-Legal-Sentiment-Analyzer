@@ -163,10 +163,9 @@ We welcome contributions from the legal and AI communities:
 
 Feel free to reach out if you have questions, suggestions, or would like to contribute:
 
-- **GitHub**: [Open an issue](https://github.com/yourusername/legal-sentiment-analysis/issues)
+- **GitHub**: https://github.com/ARI-create193/AI-Legal-Sentiment-Analyzer
 - **Email**: aryankaminwar@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-
+- **LinkedIn**: https://www.linkedin.com/in/aryan-omprakash-kaminwar-ari-0b226328a/
 ## 🔒 Privacy
 
 The Legal Document Sentiment Analysis tool:
