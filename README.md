@@ -37,7 +37,7 @@ cd legal-sentiment-analysis
 pip install -r requirements.txt
 
 # Run the application
-python app.py
+python main.ipynb
 ```
 
 ### Manual Installation
@@ -56,7 +56,7 @@ pip install plotly
 ## 🚀 How to Use
 
 ### Single Document Analysis
-1. Launch the application by running `python app.py`
+1. Launch the application by running `python main.ipynb`
 2. Open your browser and navigate to the provided local URL (typically `http://localhost:7860`)
 3. Go to the "Single Document Analysis" tab
 4. Paste your legal document text in the input field
