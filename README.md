@@ -75,8 +75,8 @@ pip install plotly
 - Click "Load Sample Documents" to test the application with pre-loaded legal text examples
 
 ## 🖥️ Demo Screenshots
-![Demo Interface](https://via.placeholder.com/800x400/007acc/ffffff?text=Legal+Sentiment+Analysis+Demo)
-*Add your actual demo screenshots here*
+![Demo Interface]![image](https://github.com/user-attachments/assets/2ad80bd2-307b-4adb-89e3-585a275da251)
+
 
 ## 🚀 WorkFlow
 ```
