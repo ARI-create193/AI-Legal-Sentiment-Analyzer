@@ -4,7 +4,6 @@
 
 ![Version](https://img.shields.io/badge/version-1.0-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 ## 📋 Overview
 
@@ -169,7 +168,7 @@ We welcome contributions from the legal and AI communities:
 Feel free to reach out if you have questions, suggestions, or would like to contribute:
 
 - **GitHub**: [Open an issue](https://github.com/yourusername/legal-sentiment-analysis/issues)
-- **Email**: your.email@example.com
+- **Email**: aryankaminwar@gmail.com
 - **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
 
 ## 🔒 Privacy
