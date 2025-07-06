@@ -7,7 +7,7 @@
 
 ## 📋 Overview
 
-Legal Document Sentiment Analysis is an AI-powered tool designed to help legal professionals analyze documents for sentiment classification and risk assessment. Using advanced NLP models including RoBERTa and FinBERT, the application provides comprehensive analysis of legal texts to identify potential compliance issues, assess document sentiment, and generate risk reports.
+Legal Document Sentiment Analysis is an AI-powered tool designed to help legal professionals analyze documents for sentiment classification and risk assessment. Utilizing advanced NLP models, including RoBERTa and FinBERT, the application offers comprehensive analysis of legal texts to identify potential compliance issues, assess document sentiment, and generate risk reports.
 
 ## ✨ Features
 
@@ -135,9 +135,6 @@ The Legal Document Sentiment Analysis tool employs a multi-model approach:
 - **Average Confidence**: Overall confidence metrics
 - **Detailed Results Table**: Document-by-document analysis
 - **Interactive Dashboard**: Visual analytics with multiple chart types
-
-![Sample Output](https://via.placeholder.com/800x400/6f42c1/ffffff?text=Sample+Analysis+Output)
-*Add your actual output screenshots here*
 
 ## 📈 Future Improvements
 
