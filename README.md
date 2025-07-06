@@ -78,12 +78,9 @@ pip install plotly
 
 
 ## 🚀 WorkFlow
-```
-Input Document → Text Preprocessing → AI Model Analysis → Risk Assessment → Visualization → Report Generation
-```
 
-![Workflow Diagram](https://via.placeholder.com/800x200/28a745/ffffff?text=Workflow+Diagram)
-*Add your actual workflow diagram here*
+![Workflow Diagram](![image](https://github.com/user-attachments/assets/81af3414-4bb7-46f8-90c2-2763934a4173)
+
 
 ## 🧠 How It Works
 
