@@ -74,11 +74,11 @@ pip install plotly
 - Click "Load Sample Documents" to test the application with pre-loaded legal text examples
 
 ## 🖥️ Demo Screenshots
-[image](https://github.com/user-attachments/assets/2ad80bd2-307b-4adb-89e3-585a275da251)
+![image](https://github.com/user-attachments/assets/2ad80bd2-307b-4adb-89e3-585a275da251)
 
 
 ## 🚀 WorkFlow
-[image](https://github.com/user-attachments/assets/81af3414-4bb7-46f8-90c2-2763934a4173)
+![image](https://github.com/user-attachments/assets/81af3414-4bb7-46f8-90c2-2763934a4173)
 
 
 ## 🧠 How It Works
